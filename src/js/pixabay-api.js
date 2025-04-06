@@ -20,3 +20,5 @@ export async function getImagesByQuery(query) {
     throw new Error('Failed to fetch images');
   }
 }
+
+//home
